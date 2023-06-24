@@ -23,7 +23,7 @@ I find myself immersed in a captivating world where quantum computing and softwa
   
 - ⚡ Fun fact: Quantum entanglement: the original 'it's complicated' relationship status.
 
-- 👀 Looking to collaborate on Quantum Computing and Artificial Intelligence
+- 🧑‍🤝‍🧑 Looking to collaborate on Quantum Computing and Artificial Intelligence.
 
 
 #### Languages and Tools  👩‍💻
