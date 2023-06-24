@@ -21,7 +21,9 @@ I find myself immersed in a captivating world where quantum computing and softwa
 
 - 🌱 I’m currently learning Quantum Computing.  
   
-- ⚡ Fun fact: Quantum entanglement: the original 'it's complicated' relationship status.  
+- ⚡ Fun fact: Quantum entanglement: the original 'it's complicated' relationship status.
+
+- 👀 Looking to collaborate on Quantum Computing and Artificial Intelligence
 
 
 #### Languages and Tools  👩‍💻
