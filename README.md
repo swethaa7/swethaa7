@@ -55,6 +55,4 @@ I find myself immersed in a captivating world where quantum computing and softwa
 <a href="https://leetcode.com/swethaa_s" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)/>
 </a> 
-<a href="https://swethaa.me/" target="_blank">
-<img alt="website" src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logoColor=white" />
-</a>
+
